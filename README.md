@@ -1,5 +1,5 @@
 # Dark-Theme-Kotlin
-*Dark Mode on Android App with Kotlin
+* Dark Mode on Android App with Kotlin
 
 # Screenshots
 <p align="center">
