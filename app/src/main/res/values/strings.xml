@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DarkTheme</string>
+    <string name="settings">settings</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system">System</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="select_theme">Select Theme</string>
+    <string name="lorem_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</string>
+    <string name="title">What is Lorem Ipsum?</string>
+    <string name="btn_read">Read More</string>
+    <string name="placeholder_image">placeholder image</string>
+    <string-array name="theme_modes">
+        <item name="light">Light</item>
+        <item name="dark">Dark</item>
+        <item name="system_default">System Default</item>
+    </string-array>
+</resources>
