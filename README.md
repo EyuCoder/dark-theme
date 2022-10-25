@@ -1,4 +1,4 @@
-# Dark-Theme-Kotlin
+# Dark Theme
 * Dark Mode on Android App with Kotlin
 
 # Screenshots
